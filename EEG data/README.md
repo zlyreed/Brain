@@ -1,4 +1,6 @@
-# [Open Datasets in Human Electrophysiology](https://github.com/voytekresearch/OpenData)
+# Open Datasets in Human Electrophysiology
+The following content is copied from  Voytek lab at UC San Diego (cognitive science, neuroscience, and data science) [Open EEG Data_github page](https://github.com/voytekresearch/OpenData);
+also check out their [research github](https://github.com/voytekresearch)
 
 This is a list of openly available electrophysiological data, focused mainly on local field potential (LFP) type measurements from humans, specifically EEG, MEG, and ECoG/iEEG. This list is primarily maintained by [Tom Donoghue](https://github.com/TomDonoghue).
 
