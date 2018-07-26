@@ -3,6 +3,6 @@
 * [EEGLAB](https://sccn.ucsd.edu/eeglab/index.php)
 
 
-# Brain research group:
-[Berlin](https://github.com/bbci)
+# Brain research groups:
+[Berlin Brain-Computer Interface](https://github.com/bbci)
 
