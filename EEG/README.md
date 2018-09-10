@@ -1,4 +1,6 @@
 # The Basics on EEG
+
+[MIT website](http://www.mit.edu/~gari/algos.html)
 - Definitions
 
 - EEG 10-20 system:
@@ -12,8 +14,10 @@
 Band | Frequncy (Hz) |
 --- | --- | 
 Delta | <4 | 
-Theta | >=4 an <8  | 
-Alpha | >=8 and <14  | 
-Beta | >=14  | 
+Theta | 4-7  | 
+Alpha | 8-15  | 
+Beta | 16-31 | 
+Gamma | >32 | 
+Mu | 8-12 | 
 
 Note: Unfortunately there is no agreement in standard reference works on what these ranges should be...
