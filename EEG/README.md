@@ -22,8 +22,7 @@ Mu | 8-12 |
 
 Note: Unfortunately there is no agreement in standard reference works on what these ranges should be...
 
-
-- Question from IRB: 
+- **Questions from IRB:** 
 1. Some references cite a risk of EEG-induced seizures.  Please clarify this and consider revising the statement that EEG and fNIRS “will not cause any harmful effects to the subjects.”
    - [What are the risks of an EEG?](https://www.hopkinsmedicine.org/healthlibrary/test_procedures/neurological/electroencephalogram_eeg_92,P07655)
    - [3 EEG Activation Procedures Used to Induce Seizures](http://www.rscdiagnosticservices.com/blog/three-eeg-activation-procedures-used-to-induce-seizures-in-eegs)
