@@ -2,6 +2,9 @@
 # Brain study 
 * [EEG toolbox--ERPLab](https://github.com/lucklab/erplab)
 * [EEGLAB](https://sccn.ucsd.edu/eeglab/index.php)
+  - [EEGLab 2018 Pittsburgh; Scott Makeig and Arnaud Delorme](https://sccn.ucsd.edu/wiki/EEGLAB_2018_Pittsburgh)
+  - [Arnaud Delorme's webpage](http://arnauddelorme.com/): arnodelorme at gmail dot com
+  
 
 
 # Brain research groups:
