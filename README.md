@@ -2,7 +2,7 @@
 # Brain study 
 * [EEG toolbox--ERPLab](https://github.com/lucklab/erplab)
 * [EEGLAB](https://sccn.ucsd.edu/eeglab/index.php)
-  - [EEGLab 2018 Pittsburgh; Scott Makeig and Arnaud Delorme](https://sccn.ucsd.edu/wiki/EEGLAB_2018_Pittsburgh)
+  - [EEGLab 2018 Pittsburgh](https://sccn.ucsd.edu/wiki/EEGLAB_2018_Pittsburgh): by Drs. Scott Makeig and Arnaud Delorme
   - [Arnaud Delorme's webpage](http://arnauddelorme.com/): arnodelorme at gmail dot com
   - [Dynamic Brain Sources of Visual Evoked Responses](https://sccn.ucsd.edu/science2002.html)
   
