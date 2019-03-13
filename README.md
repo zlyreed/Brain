@@ -1,10 +1,15 @@
 
-# Brain study 
+# Functions of brain regions 
   - Motor Cortex [The Brain: from top to bottom](http://thebrain.mcgill.ca/flash/d/d_06/d_06_cr/d_06_cr_mou/d_06_cr_mou.html)
+	  ![motor_cortex](/pics/motor_cortex.jpg)
     - planning movements: forward potion of the frontal lobe (area 6: ship's captain)
 	- controlling movements: praimary morto cortex (area 4: ship's lieutenants)
-	  
-	  ![motor_cortex](/pics/motor_cortex.jpg)
+	
+  - What are the primary functions of the [dorsolateral prefrontal cortex](https://www.quora.com/Neuroanatomy-What-are-the-primary-functions-of-the-dorsolateral-prefrontal-cortex)? (by Bradley Voytek, UCSD)
+      ![dlPFC](/pics/dorsolateral_prefrontal_cortex.jpg)    ![cortex](/pics/cortex.gif)  
+	- Anatomy: the dlPFC is a neocortical brain region, meaning it is part of the outer "cortex" (Latin: "bark" or "rind") of the brain. More generally, it's part of the "prefrontal cortex", which are the brain regions anterior (forward) from the motor parts of the frontal lobes. 
+    - Here's a quick overview of how the dlPFC relates to topics in the peer-reviewed literature, according to brainSCANr:
+	    ![dlPFC_functions](/pics/dlPFC_functions.png)
 	
 
 
