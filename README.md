@@ -1,7 +1,10 @@
 
 # Brain study 
   - Motor Cortex [The Brain: from top to bottom](http://thebrain.mcgill.ca/flash/d/d_06/d_06_cr/d_06_cr_mou/d_06_cr_mou.html)
-
+    - planning movements: forward potion of the frontal lobe (area 6: ship's captain)
+	- controlling movements: praimary morto cortex (area 4: ship's lieutenants)
+	  ![motor cortex](pics/motor cortex.jpg "motor cortex")
+	
 
 
 
