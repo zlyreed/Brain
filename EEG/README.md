@@ -22,13 +22,14 @@ Mu | 8-12 |
 
 Note: Unfortunately there is no agreement in standard reference works on what these ranges should be...
 
-EEG analysis tool
+# EEG analysis tool
 * [EEG toolbox--ERPLab](https://github.com/lucklab/erplab)
 * [EEGLAB](https://sccn.ucsd.edu/eeglab/index.php)
   - [EEGLab 2018 Pittsburgh](https://sccn.ucsd.edu/wiki/EEGLAB_2018_Pittsburgh): by Drs. Scott Makeig and Arnaud Delorme
   - [Arnaud Delorme's webpage](http://arnauddelorme.com/): arnodelorme at gmail dot com
   - [Dynamic Brain Sources of Visual Evoked Responses](https://sccn.ucsd.edu/science2002.html)
 
+# Others:
 - **Questions from IRB:** 
 1. Some references cite a risk of EEG-induced seizures.  Please clarify this and consider revising the statement that EEG and fNIRS “will not cause any harmful effects to the subjects.”
    - [What are the risks of an EEG?](https://www.hopkinsmedicine.org/healthlibrary/test_procedures/neurological/electroencephalogram_eeg_92,P07655)
