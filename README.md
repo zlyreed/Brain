@@ -4,7 +4,7 @@
     - planning movements: forward potion of the frontal lobe (area 6: ship's captain)
 	- controlling movements: praimary morto cortex (area 4: ship's lieutenants)
 	  
-	  ![motor cortex](pics/motor cortex.jpg "motor cortex")
+	  ![motor cortex](/pics/motor cortex.jpg)
 	
 
 
