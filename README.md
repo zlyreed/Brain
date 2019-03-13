@@ -1,7 +1,7 @@
 # Nervous system
   - In vertebrates it consists of two main parts, the central nervous system (CNS) and the peripheral nervous system (PNS). ([by wikipeida](https://en.wikipedia.org/wiki/Nervous_system))
     
-	![Nervous system](/pics/Nervous system.png)
+	![Nervous system](/pics/Nervous_system.png)
 	
 	- Comparison of autonomic and somatic motor systems:
 	
