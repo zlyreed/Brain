@@ -1,5 +1,5 @@
 
-# Functions of different brain regions 
+# Brain Functions
   - **Motor Cortex**
     - The motor cortex is the region of the cerebral cortex involved in the planning, control, and execution of voluntary movements. Classically the motor cortex is an area of the frontal lobe located in the posterior precentral gyrus immediately anterior to the central sulcus.  ([by wikipedia](https://en.wikipedia.org/wiki/Motor_cortex))    
 	  
