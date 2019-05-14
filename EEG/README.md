@@ -22,6 +22,9 @@ Mu | 8-12 |
 
 Note: Unfortunately there is no agreement in standard reference works on what these ranges should be...
 
+# Channels on EEG
+- [Sollfrank, 2015](https://www.ncbi.nlm.nih.gov/pubmed/?term=3D+visualization+of+movements+can+amplify+motor+cortex+activation+during+subsequent+motor+imagery):3D visualization of movements can amplify motor cortex activation during subsequent motor imagery
+
 # EEG analysis tool
 * [EEG toolbox--ERPLab](https://github.com/lucklab/erplab)
 * [EEGLAB](https://sccn.ucsd.edu/eeglab/index.php)
