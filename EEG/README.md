@@ -3,7 +3,7 @@
 [MIT website](http://www.mit.edu/~gari/algos.html)
 - Definitions
 
-- EEG 10-20 system:
+- [EEG 10-20 system](https://en.wikipedia.org/wiki/10%E2%80%9320_system_(EEG)):
 
 ![EEG 10-20 system](pictures/EEG_10-20.png "EEG_10-20") 
 
@@ -24,6 +24,13 @@ Note: Unfortunately there is no agreement in standard reference works on what th
 
 # Channels on EEG
 - [Sollfrank, 2015](https://www.ncbi.nlm.nih.gov/pubmed/?term=3D+visualization+of+movements+can+amplify+motor+cortex+activation+during+subsequent+motor+imagery):3D visualization of movements can amplify motor cortex activation during subsequent motor imagery
+- [Lves-Deliperi, 2018](https://www.ncbi.nlm.nih.gov/pubmed/30387785): Relationship Between EEG Electrode and Functional Cortex in the International 10 to 20 System.
+  - RESULTS: C3/C4, Cz, F8/F7, and T3/T4 were located 16 to 42 mm from the BOLD signal in the primary motor cortex for the contralateral hand and foot, and anterior and posterior language areas, 11 to 21 mm of which was the distance from the skin to the underlying cortex.
+
+- [Giacometti, 2014](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4280681/): Correspondence of electroencephalography and near-infrared spectroscopy sensitivities to the cerebral cortex using a high-density layout
+
+- [QEEG brain mapping](https://www.edmontonneurotherapy.com/edmonton_neurotherapy_qeeg_brain_mapping.html)
+![EEG brain map](pictures/10-20_locations_brain_functions_map.gif "brain map")
 
 # EEG analysis tool
 * [EEG toolbox--ERPLab](https://github.com/lucklab/erplab)
