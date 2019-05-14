@@ -30,7 +30,7 @@ Note: Unfortunately there is no agreement in standard reference works on what th
 - [Giacometti, 2014](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4280681/): Correspondence of electroencephalography and near-infrared spectroscopy sensitivities to the cerebral cortex using a high-density layout
 
 - [QEEG brain mapping](https://www.edmontonneurotherapy.com/edmonton_neurotherapy_qeeg_brain_mapping.html)
-![EEG brain map](pictures/10-20_locations_brain_functions_map.gif "brain map")
+  - ![EEG brain map](pictures/10-20_locations_brain_functions_map.gif "brain map")
 
 # EEG analysis tool
 * [EEG toolbox--ERPLab](https://github.com/lucklab/erplab)
