@@ -53,7 +53,18 @@
 	  - In brain-imaging studies using PETscans, depressed people display abnormally low activity in the prefrontalcortex, and more specifically in its lateral, orbitofrontal,and ventromedial regions.And the severity of the depression often correlates with the extentof the decline in activity in the prefrontal cortex. 
 	   ![cortex](/pics/cortex.jpg)
 	
+	- In motor preparationtion and execution:
+	  - A passive exoskeleton can push your life up: application on multiple sclerosis patients. [(Russo, et al., 2013)](A passive exoskeleton can push your life up: application on multiple sclerosis patients.)
+	    - use 64-channel EEG
+		- Introduction: The motor preparation in those types of complex tasks relies not only on the engagement of the premotor cortex and motor areas, but alsoon the parietal areas,the orbitomedial and the dorsolateral prefrontal cortex [8,9,10,11,12]. 
+		- The participation of the prefrontal cortex (PFC)on motor preparation and execution has been interpreted as a compensatory activity improving response accuracy in the control of complex or difficult actions. In older adults, PFC control becomes progressively stronger and is associated with a slower response time, though response accuracy remains high [13].
+        - Furthermore, a physically active lifestyle appears to counteract PFC over-recruitment during action preparation and to preserve fast response times, especially after 35–40 years of age [12]. The PFC is the highest stage of neural integration in the perceptionaction cycle, which allow us successive interaction with the environment in the goals pursuit, playing also a critical role in working memory, future planning and action monitoring. Once the goal is reached, the PFC sends feedback to posterior associative areas. 
+		- In other words, the PFC coordinates cognitive functions in the temporal organization of behavior, that is the creation of coherent behavioral sequences toward the goal. All the prefrontal functions might be defined pre-adaptive, because they pre-adapt the individual to a future predicted environment [14].
 	
+	- The Role of the Frontal Lobe in Complex Walking Among Patients With Parkinson's Disease and Healthy Older Adults: An fNIRS Study. [(Maidan, et al., 2016)](https://www.ncbi.nlm.nih.gov/pubmed/27221042)
+	   - use PortaLite fNIRS (Artinis) at left and right Brodmann's areas 10--the dorsolateral and anterior prefrontal cortex (prefrontal cortex).[41,42]
+	   - The neural control of dual-task (DT) walking and obstacle negotiation is mediated by various regions in the brain, among them the frontal lobe. The frontal cortex, and specifically the prefrontal cortex and its related circuits, are involved in dual tasking and have been implicated in planning, organization, execution, and adjustment to the environment of walking.[25,26]
+	   
 # Brain research groups:
   - [Berlin Brain-Computer Interface](https://github.com/bbci)
   - [movement: brain, body, Cognition](https://www.facebook.com/movement2017/)
