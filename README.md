@@ -70,6 +70,7 @@
   - [movement: brain, body, Cognition](https://www.facebook.com/movement2017/)
   - [Harvard Fatigue Laboratory (in history)](http://www.humankinetics.com/excerpts/excerpts/harvard-fatigue-laboratory-influential-in-promoting-exercise-physiology-research)
   - [Nancy's brain talks (MIT professor;fMRI)](https://nancysbraintalks.mit.edu/)
+  - [Biophotonics Lab, Dr. Jana M. Kainerstorfer at CMU: [EEG+fNIRS](https://www.cmu.edu/bme/biophotonics/research/eeg-fnirs.html)
 
 
 # Brain and learning:
