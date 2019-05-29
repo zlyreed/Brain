@@ -71,7 +71,7 @@
   - [Harvard Fatigue Laboratory (in history)](http://www.humankinetics.com/excerpts/excerpts/harvard-fatigue-laboratory-influential-in-promoting-exercise-physiology-research)
   - [Nancy's brain talks (MIT professor;fMRI)](https://nancysbraintalks.mit.edu/)
   - [Biophotonics Lab, Dr. Jana M. Kainerstorfer at CMU: [EEG+fNIRS](https://www.cmu.edu/bme/biophotonics/research/eeg-fnirs.html)
-
+  - [NIRS Optical Lab at University of Pittsburgh,Dr Tedodore Huppert]:  [AnalyzIR and ongoing research (http://huppertlab.net/research/ongoing-research/)
 
 # Brain and learning:
 [Learning and the brain ](https://www.learningandthebrain.com/blog/technology-and-divided-attention/); related [paper](https://link.springer.com/article/10.1007/s10739-014-9387-y)
