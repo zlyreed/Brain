@@ -1,3 +1,4 @@
+# From ChatGPT
 # 1. HRV: Increased Vagal Activity During Exoskeleton Use
 
 ## Implications:
